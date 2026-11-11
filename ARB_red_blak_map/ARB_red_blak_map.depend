@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1794411605 source:c:\users\asus\desktop\ilisi2 s1\c++ avance\arbre red_black\arb_red_blak_map\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+	<random>
+	<ctime>
+	<chrono>
+
